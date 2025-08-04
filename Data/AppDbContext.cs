@@ -23,7 +23,7 @@ namespace FinalProjectControllers.Data
                 {
                     Id = 1,
                     FullName = "Will Leveridge",
-                    Birthdate = new DateTime(1986, 8, 15),
+                    Birthdate = new DateTime(1983, 8, 15),
                     CollegeProgram = "Business IT",
                     YearInProgram = "Senior"
                 }
@@ -34,7 +34,7 @@ namespace FinalProjectControllers.Data
                 {
                     Id = 1,
                     Name = "Hiking",
-                    Description = "Exploring nature trails",
+                    Description = "Exploring nature",
                     SkillLevel = "Intermediate",
                     WeeklyHours = 5
                 }
@@ -55,8 +55,8 @@ namespace FinalProjectControllers.Data
                 new Pets
                 {
                     Id = 1,
-                    Name = "Charlie",
-                    Type = "Dog",
+                    Name = "Tootsie",
+                    Type = "English Bulldog",
                     Age = 4,
                     IsVaccinated = true
                 }
